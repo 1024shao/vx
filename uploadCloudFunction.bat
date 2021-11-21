@@ -1,0 +1,1 @@
+"F:\workWare\微信web开发者工具\cli.bat" cloud functions deploy --e cloud1-6gxss2z9424b6555 --n quickstartFunctions --r --project "K:\进阶\重生之路\vx小程序" --report_first --report
